@@ -5,3 +5,5 @@
 ### Sass
  * Sass en node-js [Node Sass
    tutorial](http://zetcode.com/javascript/nodesass/)
+
+   [Sass Guidelines](https://sass-guidelin.es/)
